@@ -6,6 +6,7 @@ public class SampleClassForGitPractice {
 		// TODO Auto-generated method stub
 		System.out.println("updated code");
 		System.out.println("second line updated code");
+		System.out.println("Sample git GUI");
 
 	}
 
