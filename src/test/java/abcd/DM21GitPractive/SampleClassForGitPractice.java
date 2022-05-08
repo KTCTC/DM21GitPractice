@@ -7,6 +7,7 @@ public class SampleClassForGitPractice {
 		System.out.println("updated code");
 		System.out.println("second line updated code");
 		System.out.println("Sample git GUI");
+		System.out.println("updated sample Eclipse.");
 
 	}
 
