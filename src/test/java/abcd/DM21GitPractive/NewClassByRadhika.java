@@ -1,11 +1,10 @@
 package abcd.DM21GitPractive;
 
-public class WebPage {
+public class NewClassByRadhika {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Sample");
-		System.out.println("updated code by radhika 1.");
+
 	}
 
 }
