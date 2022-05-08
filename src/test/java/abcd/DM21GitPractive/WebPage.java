@@ -6,6 +6,7 @@ public class WebPage {
 		// TODO Auto-generated method stub
 		System.out.println("Sample");
 		System.out.println("sample code by Ganesh");
+		System.out.println("updated code by radhika 1.");
 
 	}
 
